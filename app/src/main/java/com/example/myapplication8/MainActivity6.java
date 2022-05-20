@@ -18,4 +18,9 @@ public class MainActivity6 extends AppCompatActivity {
         Intent intent =  new Intent(MainActivity6.this, MainActivity5.class);
         startActivity(intent);
     }
+
+    public void attemp(View view) {
+        Intent intent =  new Intent(MainActivity6.this, MainActivity7.class);
+        startActivity(intent);
+    }
 }

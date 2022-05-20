@@ -6,22 +6,21 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity12 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main12);
     }
 
-    public void learning(View view) {
-        Intent intent =  new Intent(MainActivity.this, MainActivity2.class);
+    public void prev(View view) {
+        Intent intent =  new Intent(MainActivity12.this, MainActivity11.class);
         startActivity(intent);
-
     }
 
-    public void quiz(View view) {
-        Intent intent =  new Intent(MainActivity.this, MainActivity7.class);
+    public void submit(View view) {
+        Intent intent =  new Intent(MainActivity12.this, MainActivity13.class);
         startActivity(intent);
     }
 }

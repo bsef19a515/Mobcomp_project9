@@ -26,6 +26,15 @@
     <string name="lrn">START LEARNING</string>
     <string name="nxt">Next</string>
     <string name="previous">Prev</string>
+    <string name="quiz">Attempt Quiz</string>
+    <string name="title2">Welcome to Quiz Module</string>
+    <string name="start">Start Quiz Now</string>
+    <string name="choose">Choose Correct Option</string>
+    <string name="end">Submit</string>
+    <string name="score">Your Score is:</string>
+    <string name="home">Back To Home Page</string>
+
+
 
 
 
