@@ -45,6 +45,7 @@
         android:layout_marginEnd="29dp"
         android:layout_marginBottom="104dp"
         android:text="@string/learn"
+        android:onClick="learning"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintHorizontal_bias="0.0"
