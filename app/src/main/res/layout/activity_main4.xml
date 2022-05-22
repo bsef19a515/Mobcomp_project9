@@ -8,30 +8,25 @@
 
     <Button
         android:id="@+id/button9"
-        android:layout_width="130dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="23dp"
-        android:layout_marginEnd="117dp"
-        android:layout_marginBottom="38dp"
+        android:layout_width="134dp"
+        android:layout_height="62dp"
+        android:onClick="prev"
         android:text="@string/previous"
         android:textSize="20sp"
-        android:onClick="prev"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/button3"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout2"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
 
     <LinearLayout
         android:id="@+id/linearLayout2"
-        android:layout_width="412dp"
-        android:layout_height="225dp"
-        android:layout_marginTop="400dp"
+        android:layout_width="343dp"
+        android:layout_height="197dp"
+        android:layout_marginTop="56dp"
         android:background="#5D2AB8"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
 
         <TextView
             android:id="@+id/textView4"
@@ -66,9 +61,9 @@
 
     <LinearLayout
         android:id="@+id/linearLayout"
-        android:layout_width="412dp"
-        android:layout_height="225dp"
-        android:layout_marginTop="100dp"
+        android:layout_width="343dp"
+        android:layout_height="218dp"
+        android:layout_marginTop="64dp"
         android:background="#5D2AB8"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
@@ -109,17 +104,13 @@
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="128dp"
-        android:layout_height="51dp"
-        android:layout_marginStart="267dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="35dp"
+        android:layout_width="123dp"
+        android:layout_height="62dp"
+        android:onClick="nxt"
         android:text="@string/nxt"
         android:textSize="20sp"
-        android:onClick="nxt"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout2"
+        app:layout_constraintHorizontal_bias="0.627"
+        app:layout_constraintStart_toEndOf="@+id/button9"
+        app:layout_constraintTop_toTopOf="@+id/button9" />
 </androidx.constraintlayout.widget.ConstraintLayout>
