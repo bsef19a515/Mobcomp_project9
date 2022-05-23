@@ -3,6 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main10.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main11.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main12.xml" value="0.15" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main13.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main2.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main3.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main4.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main5.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main6.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main7.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main8.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout-land/activity_main9.xml" value="0.17195767195767195" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main10.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main11.xml" value="0.16893115942028986" />
