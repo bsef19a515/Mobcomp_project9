@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication8">
         <activity
+            android:name=".MainActivityQuiz"
+            android:exported="false" />
+        <activity
             android:name=".ItemClick"
             android:exported="false" />
         <activity
