@@ -41,6 +41,8 @@ public class MyQuizAdapter extends ArrayAdapter<Quiz> {
         radio3.setText(three);
 
 
+
+
         return convertView;
     }
 
